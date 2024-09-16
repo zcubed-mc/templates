@@ -5,7 +5,7 @@
 	},
 	"zcubed": {
 		"type": "project",
-		"dependencies": [],
+		"dependencies": ["github.com/zcubed/std@latest"],
 		"options": [],
 		"patchbay": []
 	}
