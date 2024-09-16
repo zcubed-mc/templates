@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Recommended template with load, tick and player functions"
+	},
+	"zcubed": {
+		"type": "project",
+		"dependencies": [],
+		"options": [],
+		"patchbay": []
+	}
+}
