@@ -1,0 +1,12 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": "Minimal template with only tick & load functions"
+	},
+	"zcubed": {
+		"type": "project",
+		"dependencies": [],
+		"options": [],
+		"patchbay": []
+	}
+}
